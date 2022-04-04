@@ -2,3 +2,4 @@
 Code #Figure2_V6: Referred to the Figure 2 in the manuscript. This code was used for linear regression analysis and data visulization. 
 Code#LSmeans: This code was used to fit linear mixed models, obtaining estimated marginal means and apply stastical tests on the obtained marginal means for mutants with planned contrasts at gene and T-DNA levels vs Columbia
 Code#FigS7: Referred to Supplemental Figure S7 that presents T-test for leaf surface temperature measurements and data visulization.
+Code#Fig3: Referred to main figure 3. This code was used to for data visulization (box plots) for the traits measured in this study. The same script was used for Figures4-5 and FigS6. 
