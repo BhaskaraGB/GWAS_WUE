@@ -10,6 +10,9 @@ All scripts used in this study for fitting linear mixed models, estimating margi
 
 ## Scripts Overview
 
+### Code_Fig3
+- **Purpose**: Used for data visualization (box plots) of the traits measured in this study. This script was used for generating Figures 3, 4, 5, and Supplemental Figure S6.
+
 ### Code_Figure2_V6
 - **Purpose**: Used for linear regression analysis and data visualization related to Figure 2 in the manuscript.
 
@@ -19,9 +22,3 @@ All scripts used in this study for fitting linear mixed models, estimating margi
 ### Code_FigS7
 - **Purpose**: Used for T-tests on leaf surface temperature measurements and data visualization related to Supplemental Figure S7.
 
-### Code_Fig3
-- **Purpose**: Used for data visualization (box plots) of the traits measured in this study. This script was used for generating Figures 3, 4, 5, and Supplemental Figure S6.
-
----
-
-This format ensures that the information is well-organized and easy to understand for anyone visiting your repository.
