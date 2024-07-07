@@ -1,6 +1,6 @@
 # GWAS_WUE
 
-We used GWAS-guided reverse genetics to identify effectors of water use efficiency (WUE). We measured WUE using gravimetric methods and carbon isotope composition (δ13C) for mutants of candidate genes identified from GWAS WUE plasticity (Plasticity = drought-wet). Additionally, we measured stomatal density and leaf surface temperatures for these mutants. The published article of this study can be found [here](https://www.pnas.org/doi/abs/10.1073/pnas.2205305119).
+We used GWAS-guided reverse genetics to identify effectors of water use efficiency (WUE). We measured WUE using gravimetric methods and carbon isotope composition (δ13C) for mutants of candidate genes identified from GWAS WUE plasticity (Plasticity = drought-wet). Additionally, we measured stomatal density and leaf surface temperatures for these mutants. The link for the published article of this study: https://www.pnas.org/doi/abs/10.1073/pnas.2205305119.
 
 All scripts used in this study for fitting linear mixed models, estimating marginal means, testing statistical significance, performing linear regression analysis, and data visualization are provided in this repository.
 
